@@ -1,0 +1,6 @@
+id=Governor_Interactive_Enabled
+name=Governor Interactive Enabled
+version=v1
+versionCode=1
+author=ggeo-git
+description=Keep your cpu interactive governor by default (if supported)
